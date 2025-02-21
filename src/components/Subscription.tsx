@@ -2,7 +2,7 @@ import { PlusDecor, SendIcon } from "@/assets";
 
 const Subscribtion = () => {
   return (
-    <section id="subscription" className="mt-60 mb-20 h-[1000px] relative px-8">
+    <section id="subscription" className="mt-40 mb-20 relative px-8">
       <div className="flex justify-center items-center bg-[#F4F1FD] mx-auto w-fit px-4 sm:px-12 lg:px-32 py-16 rounded-4xl relative">
         <img src={PlusDecor} alt="decoration" className="absolute -bottom-full -right-full" />
         <img src={SendIcon} alt='Abidzar Tour & Travel Contact Info' className="-top-5 -right-5 absolute" />
