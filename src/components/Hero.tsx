@@ -15,7 +15,7 @@ const Hero = () => {
                       <p className="mt-4 text-base font-medium text-hero/50 lg:mt-8 sm:text-lg">Butuh perjalanan aman, tanpa repot, dan nyaman? Abidzar Tour & Travel siap melayani penjemputan dan pemberangkatan ke berbagai tujuan!</p>
 
                       <div className="flex items-center flex-wrap md:flex-nowrap gap-4">
-                        <a href="#service" title="" className="inline-flex items-center px-6 py-4 mt-8 font-semibold text-white transition-all duration-200 bg-secondary rounded-lg lg:mt-16 hover:bg-secondary focus:bg-secondary shadow-secondary" role="button">
+                        <a href="#layanan" title="" className="inline-flex items-center px-6 py-4 mt-8 font-semibold text-white transition-all duration-200 bg-secondary rounded-lg lg:mt-16 hover:bg-secondary focus:bg-secondary shadow-secondary" role="button">
                             Pelajari
                             <svg className="w-6 h-6 ml-8 -mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M13 9l3 3m0 0l-3 3m3-3H8m13 0a9 9 0 11-18 0 9 9 0 0118 0z" />
