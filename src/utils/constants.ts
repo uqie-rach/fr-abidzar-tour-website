@@ -1,5 +1,23 @@
 import { BromoImage, JuandaImage, KirimPaketImage, ServiceImage1, ServiceImage2, ServiceImage3, ServiceImage4, step1, step2, step3, SurabayaImage, WisataReligiImage } from "@/assets"
 
+export const testimonials = [
+  {
+    review: "Booking Travel di sini sangat praktis! Travel bersih, nyaman, dan layanan cepat. Perjalanan dari Surabaya ke Jombang dan Malang jadi lancar. Pasti akan booking lagi!",
+    nama: 'Rizky',
+    kota_asal: 'Surabaya, Jawa Timur',
+  },
+  {
+    review: "Pengalaman wisata religi yang sangat berkesan. Pelayanan ramah dan profesional. Terima kasih telah membuat perjalanan kami begitu nyaman.",
+    nama: 'Sohibul',
+    kota_asal: 'Gresik, Jawa Timur',
+  },
+  {
+    review: "Layanan antar barang sangat cepat dan aman. Paket saya sampai dengan kondisi baik. Sangat puas dengan pelayanannya!",
+    nama: 'Budi',
+    kota_asal: 'Sidoarjo, Jawa Timur',
+  }
+];
+
 export const bookingSteps = [
   {
     title: 'Hubungi Admin',
