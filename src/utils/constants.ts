@@ -1,4 +1,27 @@
-import { ServiceImage1, ServiceImage2, ServiceImage3, ServiceImage4 } from "@/assets"
+import { BromoImage, JuandaImage, KirimPaketImage, ServiceImage1, ServiceImage2, ServiceImage3, ServiceImage4, SurabayaImage, WisataReligiImage } from "@/assets"
+
+export const destinations = [
+  {
+    title: 'Wisata Religi',
+    image: WisataReligiImage
+  },
+  {
+    title: 'Malang - Surabaya dan Sebaliknya',
+    image: SurabayaImage
+  },
+  {
+    title: 'Bandara Juanda',
+    image: JuandaImage
+  },
+  {
+    title: 'Tour Wisata Bromo',
+    image: BromoImage
+  },
+  {
+    title: 'Kirim Paket Instan',
+    image: KirimPaketImage
+  },
+];
 
 export const services = [
   {

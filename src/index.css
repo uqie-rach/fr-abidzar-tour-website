@@ -19,6 +19,7 @@
     /* box shadow */
     --shadow-secondary: var(--color-secondary) 0px 15px 50px -10px;
     --shadow-primary: var(--color-primary) 0px 15px 30px -10px;
+    --shadow-sm-spread: rgba(0,0,0,.1) 0px 20px 40px -10px;
 
     --default-font-family: "nunito", "Open sans", sans-serif;
     --font-volkhov: "Volkhov", serif;
