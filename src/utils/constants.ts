@@ -1,4 +1,22 @@
-import { BromoImage, JuandaImage, KirimPaketImage, ServiceImage1, ServiceImage2, ServiceImage3, ServiceImage4, SurabayaImage, WisataReligiImage } from "@/assets"
+import { BromoImage, JuandaImage, KirimPaketImage, ServiceImage1, ServiceImage2, ServiceImage3, ServiceImage4, step1, step2, step3, SurabayaImage, WisataReligiImage } from "@/assets"
+
+export const bookingSteps = [
+  {
+    title: 'Hubungi Admin',
+    desc: 'Konfirmasi destinasi dan pilih armada sesuai kebutuhan.',
+    icon: step1
+  },
+  {
+    title: 'Lakukan Pembayaran',
+    desc: 'Selesaikan transaksi dengan metode yang tersedia. Kami menerima pembayaran virtual dan cash.',
+    icon: step2
+  },
+  {
+    title: 'Penjemputan & Pemberangkatan',
+    desc: 'Klien menunggu waktu penjemputan & pemberangkatan sesuai jadwal  yang disepakati.',
+    icon: step3
+  },
+];
 
 export const destinations = [
   {

@@ -15,6 +15,11 @@ export { default as SurabayaImage } from './home/SurabayaImage.png';
 export { default as KirimPaketImage } from './home/KirimPaketImage.png';
 export { default as NavigationIcon } from './home/NavigationIcon.svg';
 
+export { default as step1 } from './home/step1.svg';
+export { default as step2 } from './home/step2.svg';
+export { default as step3 } from './home/step3.svg';
+export { default as BookingSectionImage } from './home/BookingSectionImage.svg';
+
 /** Shared assets */
 export { default as CompanyLogo } from './CompanyLogo.svg';
 export { default as PlayButton } from './PlayButton.svg';
