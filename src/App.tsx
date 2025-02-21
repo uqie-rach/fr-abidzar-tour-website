@@ -2,8 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Suspense } from "react";
 
 import { routes } from "@/routes/route";
-import { Navbar } from "@/components";
-
+import { Navbar, Footer } from "@/components";
 
 const App = () => {
   return (
@@ -17,6 +16,7 @@ const App = () => {
           <Route path="*" element={<div>not found</div>} />
         </Routes>
       </Suspense>
+      <Footer />
     </Router>
   );
 };
