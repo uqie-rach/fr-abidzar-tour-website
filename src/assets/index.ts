@@ -20,6 +20,11 @@ export { default as step2 } from './home/step2.svg';
 export { default as step3 } from './home/step3.svg';
 export { default as BookingSectionImage } from './home/BookingSectionImage.svg';
 
+export { default as SubsBackground } from './home/SubsBackground.svg';
+export { default as SendIcon } from './home/SendIcon.svg';
+export { default as EmailIcon } from './home/EmailIcon.svg';
+export { default as PlusDecor } from './home/PlusDecor.svg';
+
 /** Shared assets */
 export { default as CompanyLogo } from './CompanyLogo.svg';
 export { default as PlayButton } from './PlayButton.svg';
