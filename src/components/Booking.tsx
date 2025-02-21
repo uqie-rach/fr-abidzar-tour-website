@@ -3,7 +3,7 @@ import { bookingSteps } from "@/utils/constants";
 
 const Booking = () => {
   return (
-    <div className="relative py-24 sm:py-28 lg:py-36" id="home">
+    <div className="relative py-24 sm:py-28 lg:py-36" id="booking">
       <section className="max-w-7xl mx-auto">
           <div className="px-4 sm:px-6 lg:px-8">
               <div className="grid items-center grid-cols-1 gap-12 lg:grid-cols-2">
