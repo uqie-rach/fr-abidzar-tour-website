@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@import "@fontsource/open-sans";
+@import "@fontsource/open-sans/700";
+@import "@fontsource/open-sans/600";
+@import "@fontsource/open-sans/500";
+@import "@fontsource/open-sans/400";
+@import "@fontsource/open-sans/300";
+
+@import "@fontsource/Volkhov";
+@import "@fontsource/Nunito";
+
+@theme {
+    --color-primary: #DF6951;
+    --color-secondary: #F2994A;
+    --color-primary-20: #FFF1DA;
+    --color-hero: #181E4B;
+
+    /* box shadow */
+    --shadow-secondary: var(--color-secondary) 0px 15px 50px -10px;
+    --shadow-primary: var(--color-primary) 0px 15px 30px -10px;
+
+    --default-font-family: "nunito", "Open sans", sans-serif;
+    --font-volkhov: "Volkhov", serif;
+}
+
+:root {
+  scroll-behavior: smooth;
+}
