@@ -38,8 +38,12 @@ const Destinations = () => {
 
 export default Destinations
 
+interface DestinationCardProps {
+  image: string
+  title: string
+}
 
-const DestinationCard = ({ image, title }) => {
+const DestinationCard = ({ image, title } : DestinationCardProps) => {
   return (
     <>
       <div className="w-[315px] h-[415px] overflow-hidden relative shadow-sm-spread rounded-3xl">

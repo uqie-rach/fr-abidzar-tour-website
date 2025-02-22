@@ -38,8 +38,13 @@ const Service = () => {
 
 export default Service;
 
+interface ServiceCardProps {
+  icon: string;
+  title: string;
+  details: string;
+}
 
-const ServiceCard = ({ icon, title, details }) => {
+const ServiceCard = ({ icon, title, details } : ServiceCardProps) => {
   return (
     <>
       <div className="w-[250px] px-4 relative">
