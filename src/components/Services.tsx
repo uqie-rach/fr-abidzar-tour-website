@@ -10,7 +10,7 @@ const Service = () => {
               <span className="mb-2 block text-lg font-semibold text-primary uppercase">
                 Layanan
               </span>
-              <h2 className="mb-3 text-3xl font-bold leading-[1.2] text-hero sm:text-4xl md:text-[40px]">
+              <h2 className="mb-3 text-3xl font-bold leading-[1.2] text-hero sm:text-4xl md:text-[40px] font-volkhov">
                 Kami Menyediakan Layanan Terbaik
               </h2>
             </div>

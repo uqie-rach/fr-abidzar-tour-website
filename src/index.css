@@ -7,8 +7,8 @@
 @import "@fontsource/open-sans/400";
 @import "@fontsource/open-sans/300";
 
-@import "@fontsource/Volkhov";
-@import "@fontsource/Nunito";
+@import "@fontsource/volkhov";
+@import "@fontsource/nunito";
 
 @theme {
     --color-primary: #DF6951;
