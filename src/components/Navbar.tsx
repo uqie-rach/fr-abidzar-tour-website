@@ -24,7 +24,7 @@ const Navbar = () => {
   return (
     <header
       className={`fixed w-full z-20 transition-colors ${
-        isOnTop ? "" : "bg-white border-b border-gray-100"
+        isOnTop && !isMenuOpen ? "" : "bg-white border-b border-gray-100"
       }`}
     >
       <div className="px-4 mx-auto sm:px-6 lg:px-8">
@@ -82,7 +82,7 @@ const Navbar = () => {
           </button>
 
           {/* Menu (Desktop) */}
-          <div className="hidden lg:flex lg:items-center lg:justify-center lg:space-x-20">
+          <div className="hidden lg:flex lg:items-center lg:justify-center space-x-10 xl:space-x-20">
             {homePageRoutes?.map((route, idx) => (
               <a
                 key={idx}
