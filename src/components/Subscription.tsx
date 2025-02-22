@@ -4,7 +4,7 @@ const Subscribtion = () => {
   return (
     <section id="subscription" className="mt-40 mb-20 relative px-8">
       <div className="flex justify-center items-center bg-[#F4F1FD] mx-auto w-fit px-4 sm:px-12 lg:px-32 py-16 rounded-4xl relative">
-        <img src={PlusDecor} alt="decoration" className="absolute -bottom-full -right-full" />
+        <img src={PlusDecor} alt="decoration" className="absolute -bottom-10 -left-10 md:-bottom-20 md:-left-28 -scale-x-100" />
         <img src={SendIcon} alt='Abidzar Tour & Travel Contact Info' className="-top-5 -right-5 absolute" />
         <div className="text-center">
           <h2 className="text-2xl md:text-4xl font-bold text-hero/80 leading-12 font-volkhov mb-10">Butuh Bantuan Untuk Perjalanan Anda? <br /> Kami Siap Mendukung!</h2>
