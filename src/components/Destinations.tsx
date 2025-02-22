@@ -11,7 +11,7 @@ const Destinations = () => {
               <span className="mb-2 block text-lg font-semibold text-primary uppercase">
                 Top Selling
               </span>
-              <h2 className="mb-3 text-3xl font-bold leading-[1.2] text-hero sm:text-4xl md:text-[40px]">
+              <h2 className="mb-3 text-3xl font-bold leading-[1.2] text-hero sm:text-4xl md:text-[40px] font-volkhov">
                 Destinasi Pilihan & Layanan
               </h2>
             </div>
