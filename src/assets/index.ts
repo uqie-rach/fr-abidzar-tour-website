@@ -3,10 +3,10 @@
 export { default as HeroImage } from './home/HeroImage.png';
 export { default as HeroBgAccent } from './home/HeroBgAccent.png';
 
-export { default as ServiceImage1 } from './home/Service1.svg';
-export { default as ServiceImage2 } from './home/Service2.svg';
-export { default as ServiceImage3 } from './home/Service3.svg';
-export { default as ServiceImage4 } from './home/Service4.svg';
+export { default as ServiceImage1 } from './home/service1.svg';
+export { default as ServiceImage2 } from './home/service2.svg';
+export { default as ServiceImage3 } from './home/service3.svg';
+export { default as ServiceImage4 } from './home/service4.svg';
 
 export { default as WisataReligiImage } from './home/WisataReligiImage.png';
 export { default as JuandaImage } from './home/JuandaImage.png';
