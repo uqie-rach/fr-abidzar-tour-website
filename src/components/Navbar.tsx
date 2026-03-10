@@ -35,7 +35,7 @@ const Navbar = () => {
               <img
                 className="w-44 sm:w-auto"
                 src={CompanyLogo}
-                alt="Abidzar Tour & Travel Company Logo"
+                alt="Malang Trans Jatim Company Logo"
               />
             </a>
           </div>

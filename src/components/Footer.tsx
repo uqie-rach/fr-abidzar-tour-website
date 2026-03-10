@@ -25,7 +25,7 @@ const Footer = () => {
             <div className="flex items-center justify-between h-16 lg:h-20">
                 <div className="flex-shrink-0">
                     <a href="/#home" className="flex">
-                        <img className="w-44 sm:w-auto" src={CompanyLogo} alt="Abidzar Tour & Travel Company Logo" />
+                        <img className="w-44 sm:w-auto" src={CompanyLogo} alt="Malang Trans Jatim Company Logo" />
                     </a>
                 </div>
 

@@ -49,10 +49,10 @@ const DestinationCard = ({ image, title } : DestinationCardProps) => {
       <div className="w-[315px] h-[415px] overflow-hidden relative shadow-sm-spread rounded-3xl">
         <div className="bg-white group">
           <div className="flex h-[330px] w-full items-center justify-center mx-auto overflow-hidden">
-            <img src={image} alt={"Layanan" + title + " Abidzar Tour & Travel"} />
+            <img src={image} alt={"Layanan" + title + " Malang Trans Jatim"} />
           </div>
           <div className="w-full h-full flex items-center gap-3 p-4">
-            <img src={NavigationIcon} alt={"Layanan" + title + " Abidzar Tour & Travel"} />
+            <img src={NavigationIcon} alt={"Layanan" + title + " Malang Trans Jatim"} />
             <h3 className="text-base font-semibold text-hero text-left">
               {title}
             </h3>

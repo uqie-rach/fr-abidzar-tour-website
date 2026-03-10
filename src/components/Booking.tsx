@@ -28,7 +28,7 @@ const Booking = () => {
                       </div>
                   </div>
                   <div>
-                      <img className="w-full" src={BookingSectionImage} alt="langkah langkah booking travel di Abidzar Tour & Travel" />
+                      <img className="w-full" src={BookingSectionImage} alt="langkah langkah booking travel di Malang Trans Jatim" />
                   </div>
               </div>
           </div>
