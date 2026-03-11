@@ -33,7 +33,7 @@ const Navbar = () => {
           <div className="flex-shrink-0 z-10">
             <a href="/#home" className="flex">
               <img
-                className="w-44 sm:w-auto"
+                className="w-44 sm:w-[280px]"
                 src={CompanyLogo}
                 alt="Malang Trans Jatim Company Logo"
               />

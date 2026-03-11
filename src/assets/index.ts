@@ -26,5 +26,5 @@ export { default as EmailIcon } from './home/EmailIcon.svg';
 export { default as PlusDecor } from './home/PlusDecor.svg';
 
 /** Shared assets */
-export { default as CompanyLogo } from './CompanyLogo.svg';
+export { default as CompanyLogo } from './CompanyLogo.png';
 export { default as PlayButton } from './PlayButton.svg';
