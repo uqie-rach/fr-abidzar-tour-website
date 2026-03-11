@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div className="relative py-24 sm:py-28 lg:py-36" id="home">
       <div className="absolute top-0 right-0 -z-1 w-[55%] md:w-[50%] lg:w-[45%]">
-        <img src={HeroBgAccent} alt="Abidzar Tour & Travel Website" className="w-full h-full object-cover"/>
+        <img src={HeroBgAccent} alt="Malang Trans Jatim Website" className="w-full h-full object-cover"/>
       </div>
       <section className="max-w-7xl mx-auto">
           <div className="px-4 sm:px-6 lg:px-8">
@@ -12,7 +12,7 @@ const Hero = () => {
                   <div>
                       <p className="text-base font-bold tracking-wider uppercase text-primary">nyaman dan bebas ribet</p>
                       <h1 className="mt-4 text-4xl font-bold text-hero lg:mt-8 sm:text-6xl xl:text-8xl font-volkhov">Booking mudah, perjalanan aman!</h1>
-                      <p className="mt-4 text-base font-medium text-hero/50 lg:mt-8 sm:text-lg">Butuh perjalanan aman, tanpa repot, dan nyaman? Abidzar Tour & Travel siap melayani penjemputan dan pemberangkatan ke berbagai tujuan!</p>
+                      <p className="mt-4 text-base font-medium text-hero/50 lg:mt-8 sm:text-lg">Butuh perjalanan aman, tanpa repot, dan nyaman? Malang Trans Jatim siap melayani penjemputan dan pemberangkatan ke berbagai tujuan!</p>
 
                       <div className="flex items-center flex-wrap md:flex-nowrap gap-4">
                         <a href="#layanan" title="" className="inline-flex items-center px-6 py-4 mt-8 font-semibold text-white transition-all duration-200 bg-secondary rounded-lg lg:mt-16 hover:bg-secondary focus:bg-secondary shadow-secondary" role="button">
@@ -23,7 +23,7 @@ const Hero = () => {
                         </a>
                         <a href="#destinasi" title="" className="inline-flex  gap-4 justify-center items-center px-6 py-4 mt-8 font-semibold text-white transition-all duration-200 rounded-lg lg:mt-16 group" role="button">
                           <div className="w-[40px] h-[40px] rounded-full bg-primary flex items-center justify-center shadow-primary group-hover:rotate-45 transition-transform">
-                            <img src={PlayButton} alt="Destinasi Abidzar Tour & Travel" />
+                            <img src={PlayButton} alt="Destinasi Malang Trans Jatim" />
                           </div>
                           <span className="text-hero/50">
                             Cek Destinasi
@@ -33,7 +33,7 @@ const Hero = () => {
                   </div>
 
                   <div>
-                      <img className="w-full" src={HeroImage} alt="Abidzar Tour & Travel Home Page" />
+                      <img className="w-full" src={HeroImage} alt="Malang Trans Jatim Home Page" />
                   </div>
               </div>
           </div>

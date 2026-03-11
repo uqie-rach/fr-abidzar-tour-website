@@ -52,7 +52,7 @@ const Testimonial = () => {
                                     </div>
 
                                     <div className="flex items-center mt-8">
-                                        <img className="flex-shrink-0 object-cover rounded-full w-11 h-11" src="https://avatar.iran.liara.run/public" alt="Klien Abidzar Tour & Travel" />
+                                        <img className="flex-shrink-0 object-cover rounded-full w-11 h-11" src="https://avatar.iran.liara.run/public" alt="Klien Malang Trans Jatim" />
                                         <div className="ml-4">
                                             <p className="text-base font-bold text-gray-900 capitalize font-volkhov">{testimonial?.nama}</p>
                                             <p className="mt-0.5 text-sm font-pj text-gray-600 capitalize">{testimonial?.kota_asal}</p>
